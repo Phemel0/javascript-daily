@@ -14,6 +14,7 @@ console.log(document.querySelector('.guess').value);
 let secretNumber = Math.trunc(Math.random() * 20) + 1;
 let score = 20;
 let highscore = 0;
+let newRecord = 85;
 
 const displayMessage = function (message) {
   document.querySelector('.message').textContent = message;
