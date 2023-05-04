@@ -6,3 +6,6 @@ console.log(23);
 
 let firstName = "Phemelo";
 console.log(firstName); 
+
+let country = "Black";
+console.log(Black);
