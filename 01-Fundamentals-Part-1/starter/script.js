@@ -12,3 +12,9 @@ console.log(country);
 
 let population = 58895324;
 console.log(population);
+
+let city = "Johannesburg";
+console.log(city);
+
+let jobDescription = "Software Developer";
+console.log(jobDescription);
