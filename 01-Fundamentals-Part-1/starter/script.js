@@ -18,3 +18,6 @@ console.log(city);
 
 let jobDescription = "Software Developer";
 console.log(jobDescription);
+
+let jobDescription = "Software Developer";
+console.log(jobDescription);
