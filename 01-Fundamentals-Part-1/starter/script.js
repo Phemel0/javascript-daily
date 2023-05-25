@@ -16,8 +16,10 @@ console.log(population);
 let city = "Johannesburg";
 console.log(city);
 
-let jobDescription = "Software Developer";
+let jobTitle = "Software Developer";
 console.log(jobDescription);
 
-let jobDescription = "Software Developer";
+let jobDescription = "Description of Job Title";
 console.log(jobDescription);
+
+
